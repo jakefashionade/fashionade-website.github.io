@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2de8f03.chunk.css",
-    "main.js": "/static/js/main.ddb42ca1.chunk.js",
-    "main.js.map": "/static/js/main.ddb42ca1.chunk.js.map",
+    "main.css": "/static/css/main.e85dfa89.chunk.css",
+    "main.js": "/static/js/main.fd5dcea8.chunk.js",
+    "main.js.map": "/static/js/main.fd5dcea8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f84dbdb9.js",
     "runtime-main.js.map": "/static/js/runtime-main.f84dbdb9.js.map",
-    "static/js/2.70369fc6.chunk.js": "/static/js/2.70369fc6.chunk.js",
-    "static/js/2.70369fc6.chunk.js.map": "/static/js/2.70369fc6.chunk.js.map",
+    "static/js/2.7a0fefae.chunk.js": "/static/js/2.7a0fefae.chunk.js",
+    "static/js/2.7a0fefae.chunk.js.map": "/static/js/2.7a0fefae.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d2de8f03.chunk.css.map": "/static/css/main.d2de8f03.chunk.css.map",
-    "static/js/2.70369fc6.chunk.js.LICENSE.txt": "/static/js/2.70369fc6.chunk.js.LICENSE.txt",
+    "static/css/main.e85dfa89.chunk.css.map": "/static/css/main.e85dfa89.chunk.css.map",
+    "static/js/2.7a0fefae.chunk.js.LICENSE.txt": "/static/js/2.7a0fefae.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/Asset44.b0917716.png",
     "static/media/Asset_7.49b8f1c7.png": "/static/media/Asset_7.49b8f1c7.png",
     "static/media/company.css": "/static/media/company3.cf75fb7e.png",
@@ -24,7 +24,7 @@
     "static/media/product_4.9edfd8c1.png": "/static/media/product_4.9edfd8c1.png",
     "static/media/product_5.de681362.png": "/static/media/product_5.de681362.png",
     "static/media/product_6.6ba56024.png": "/static/media/product_6.6ba56024.png",
-    "static/media/products.css": "/static/media/shape1.e7c73410.png",
+    "static/media/products.css": "/static/media/shape2.0eef5214.png",
     "static/media/login.css": "/static/media/welcome.6f22289f.png",
     "static/media/styleAPI.bad33943.png": "/static/media/styleAPI.bad33943.png",
     "static/media/talktosale_shape.e7c73410.png": "/static/media/talktosale_shape.e7c73410.png",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f84dbdb9.js",
-    "static/js/2.70369fc6.chunk.js",
-    "static/css/main.d2de8f03.chunk.css",
-    "static/js/main.ddb42ca1.chunk.js"
+    "static/js/2.7a0fefae.chunk.js",
+    "static/css/main.e85dfa89.chunk.css",
+    "static/js/main.fd5dcea8.chunk.js"
   ]
 }
