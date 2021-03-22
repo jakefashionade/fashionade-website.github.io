@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.be97dc5a.chunk.css",
-    "main.js": "/static/js/main.8ab5d03b.chunk.js",
-    "main.js.map": "/static/js/main.8ab5d03b.chunk.js.map",
+    "main.css": "/static/css/main.07ae5de1.chunk.css",
+    "main.js": "/static/js/main.fb7947ca.chunk.js",
+    "main.js.map": "/static/js/main.fb7947ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f84dbdb9.js",
     "runtime-main.js.map": "/static/js/runtime-main.f84dbdb9.js.map",
     "static/js/2.7a0fefae.chunk.js": "/static/js/2.7a0fefae.chunk.js",
     "static/js/2.7a0fefae.chunk.js.map": "/static/js/2.7a0fefae.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.be97dc5a.chunk.css.map": "/static/css/main.be97dc5a.chunk.css.map",
+    "static/css/main.07ae5de1.chunk.css.map": "/static/css/main.07ae5de1.chunk.css.map",
     "static/js/2.7a0fefae.chunk.js.LICENSE.txt": "/static/js/2.7a0fefae.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/Asset44.b0917716.png",
     "static/media/Asset_7.49b8f1c7.png": "/static/media/Asset_7.49b8f1c7.png",
@@ -17,7 +17,7 @@
     "static/media/crm.47cd12fa.png": "/static/media/crm.47cd12fa.png",
     "static/media/ecommerce.14277e44.png": "/static/media/ecommerce.14277e44.png",
     "static/media/instore.b7b45f2b.png": "/static/media/instore.b7b45f2b.png",
-    "static/media/italic.f8158146.png": "/static/media/italic.f8158146.png",
+    "static/media/italic.e1389b00.png": "/static/media/italic.e1389b00.png",
     "static/media/marketing.cff43a24.png": "/static/media/marketing.cff43a24.png",
     "static/media/product_1.e4c27e15.png": "/static/media/product_1.e4c27e15.png",
     "static/media/product_2.2b4c2402.png": "/static/media/product_2.2b4c2402.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.f84dbdb9.js",
     "static/js/2.7a0fefae.chunk.js",
-    "static/css/main.be97dc5a.chunk.css",
-    "static/js/main.8ab5d03b.chunk.js"
+    "static/css/main.07ae5de1.chunk.css",
+    "static/js/main.fb7947ca.chunk.js"
   ]
 }
